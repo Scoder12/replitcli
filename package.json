@@ -21,7 +21,7 @@
     "commander": "^7.0.0",
     "dotenv": "^8.2.0",
     "get-stream": "^6.0.0",
-    "inquirer": "^7.3.3",
+    "inquirer": "^8.1.5",
     "open": "^7.2.1",
     "ws": "^7.3.1"
   },
